@@ -8,11 +8,6 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-### Mas com alguns já bem desenvolvidos! 
-<p align="center">
-<img loading="lazy" src="[[http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)"/>
-</p>
-
 ### > Pergunta para reflexão: 0 é falso e 1 é verdadeiro, certo? Resposta: 1 
 
 
