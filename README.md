@@ -4,13 +4,12 @@
 ![mulher e tecnologia](https://github.com/J4mily/J4mily/assets/101888456/37539dad-ca54-4a6e-8f11-71950f827116)
 
 ### Me chamo Franciely Jamily Q. Pereira, atualmente estudo Ciências da Computação e atuo como **desenvolvedora web wm JAVA**. Manipulo dados em PL/SQL e manuseio HTML e CSS. 
-###Sigo aperfeiçoando meus conhecimentos! 
+### Sigo aperfeiçoando meus conhecimentos! 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-#### Pergunta: 0 é falso e 1 é verdadeiro, certo? 🤔
-#### Resposta: 1 ⚡
+#### - Pergunta: 0 é falso e 1 é verdadeiro, certo? Resposta: 1 ⚡
 
 
 <!--
