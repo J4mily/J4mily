@@ -1,5 +1,6 @@
 
 <h1 align="center"> Olá Friends! bem vindo ao meu perfil✨ </h1>
+
 ![mulher e tecnologia](https://github.com/J4mily/J4mily/assets/101888456/37539dad-ca54-4a6e-8f11-71950f827116)
 
 ### Me chamo Franciely Jamily Q. Pereira, atualmente estudo Ciências da Computação e atuo como **desenvolvedora web wm JAVA**. Manipulo dados em PL/SQL e manuseio HTML e CSS. Sigo aperfeiçoando neus conhecimento! 
