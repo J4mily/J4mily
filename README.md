@@ -8,9 +8,6 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-### > Qual o filme favorito do programador Java? → "NullPointer Exception" – O Retorno" 🎥💀
-
-
 <!--
 **J4mily/J4mily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
