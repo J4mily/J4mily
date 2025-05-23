@@ -30,7 +30,6 @@
 ## Ferramentas e Boas Práticas 🛠️
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=abstract&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-7952B3?style=for-the-badge&logo=patternfly&logoColor=white)
