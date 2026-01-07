@@ -63,20 +63,6 @@ Estou sempre aprendendo, questionando arquiteturas e ajustando a rota 🚀
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge">
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J4mily&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4mily&layout=compact&theme=radical" />
-</p>
-
----
-
 <p align="center">
   ✨ Obrigada por visitar meu perfil! ✨  
 </p>
